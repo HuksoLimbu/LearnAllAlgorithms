@@ -29,3 +29,9 @@ if __name__=="__main__":
   print("The result of the convolution is : ")
   print(result)
 
+# The Result is given Below:
+# The result of the convolution is : 
+# [[ -8.   6.   6. -10.]
+#  [ -8.   2.   2. -10.]
+#  [ -8.  -6.  -6. -10.]]
+
