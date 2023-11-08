@@ -3,8 +3,8 @@
 # Table of Contents
 Convolution Algorithm
 1. [Required Tools](#tools)
-2. [Lists of Algorithm](#tools)
-   1. [Convolution Algorithm](C)
+2. [Lists of Algorithm]
+   1. [Convolution Algorithm](#C)
 
 
 # Required Tools
